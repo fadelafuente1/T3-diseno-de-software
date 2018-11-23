@@ -7,3 +7,12 @@ isort>=4.2.5
 astroid>=2.0.0
 wrapt
 lazy-object-proxy
+
+attrs>=17.4.0
+more-itertools>=4.0.0
+pluggy>=0.7
+six>=1.10.0
+atomicwrites>=1.0
+setuptools
+py>=1.5.0
+pytest=4.0.0
