@@ -1,0 +1,9 @@
+prompt_toolkit
+six>=1.9.0
+wcwidth
+pylint
+mccabe
+isort>=4.2.5
+astroid>=2.0.0
+wrapt
+lazy-object-proxy
